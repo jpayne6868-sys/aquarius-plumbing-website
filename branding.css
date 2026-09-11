@@ -1,0 +1,3 @@
+.brand{gap:0}
+.brand img{display:block;width:173px;height:auto;mix-blend-mode:multiply}
+@media(max-width:800px){.brand img{width:144px}}
